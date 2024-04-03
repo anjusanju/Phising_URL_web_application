@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | PHISHING URL DETECTION</title>
+    <script src="https://kit.fontawesome.com/82a4ba4cb4.js" crossorigin="anonymous"></script>
+
+    <style>
+        *{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin:0;
+        }
+        .container{
+            background:rgba(0, 0, 0, 0.3);
+            color:white;
+            width:65% ;
+            padding:20px;
+            border-radius:10px  ;
+            text-align: center;
+            position:absolute;
+            left:50%;
+            top:50%;
+            transform:translate(-50%,-50%);
+        }
+        p,h3{
+            color:oldlace;
+            line-height:1.6;
+         }
+         h3{
+         color:palevioletred;
+         font-size:25px;
+         font-weight:900;
+         }
+        h2,h3{
+            text-align:center;    
+        }
+        h2{
+
+            padding: 20px;
+            color: white;
+
+        }
+        button{
+        color: white;
+        background-color:palevioletred;
+        border:0;
+        padding:5px;
+        border-radius:10px;
+        font-weight:600;
+        cursor:pointer;
+        }
+        body{
+            background-image:url("https://onaircode.com/wp-content/uploads/2019/09/simple-pattern-css-1024x580.jpg");
+            background-repeat: no-repeat;
+            background-size:cover;
+
+        }
+        img{
+            position:absolute;
+            top:205px;
+            right:0%;
+
+        }
+
+    </style>
+</head>
+
+<body>
+    <h2>PHISHING URL DETECTION</h2>
+     <img src="https://tinypic.host/images/2023/02/26/pngtree-hacker-phishing-data-in-computer-png-image_2219576-removebg-preview.png" alt="pngtree-hacker-phishing-data-in-computer-png-image_2219576-removebg-preview.png" border="0" />
+    <div action="/" class="container">
+
+        <h3>ABOUT PHISHING</h3><br>
+        <p>Attackers frequently use phishing because it is simpler to fool a victim into clicking a malicious link that
+            seems authentic than to try to get past a computer's security measures. The malicious links inside the
+            message's body are made to look as though they lead to the faked company by utilising its logos and other
+            official materials.Any unregistered domain name is open to registration by the attacker. This URL component
+            can only be changed once. The phisher may always generate a new URL by changing FreeURL. Due to the
+            distinctive element of the website domain, security defences have trouble identifying phishing domains. It is simple to stop a person from accessing a domain that has been identified as fraudulent.
+        </p><br>
+        <a href={{url_for('predict')}}><button>DETECT PHISHING WEBSITE <i class="fa-solid fa-magnifying-glass-arrow-right"></i></button></a>
+    </div>
+
+</body>
+
+</html>
