@@ -18,3 +18,15 @@ security is of paramount importance in the present data communication environmen
 detection system is to protect the resources from threats. It analyzes and predicts the behavior of users, and then these
 behaviors are classified as normal behavior or attack.
 
+OUTPUT : 
+
+![Screenshot 2024-04-01 174246](https://github.com/anjusanju/Phising_URL_web_application/assets/20492104/931093aa-59fc-4fbc-8d42-1f3cc4f06d40)
+
+
+![Screenshot 2024-04-01 174404](https://github.com/anjusanju/Phising_URL_web_application/assets/20492104/4f403a16-434f-4be2-8524-98b22209544e)
+
+
+![Screenshot 2024-04-01 174550](https://github.com/anjusanju/Phising_URL_web_application/assets/20492104/055e2671-45c2-457f-adc4-bcf5ae6a7c28)
+
+
+![Screenshot 2024-04-01 175241](https://github.com/anjusanju/Phising_URL_web_application/assets/20492104/d9d60a0b-44bb-4eec-8509-3053539d4e13)
