@@ -1,9 +1,10 @@
 # Phising_URL_web_application
-Developed using flask framework. 
-By taking two Kaggle datasets. 
+Developed using flask framework web application 
+By taking two Kaggle datasets.
+
 Dataset 1 : https://www.kaggle.com/code/eswarchandt/website-phishing/data
 
-Dataset 2 : 
+Dataset 2 : https://www.kaggle.com/datasets/tapadhirdas/unridd-intrusion-detection-dataset
 
 Phishing attacks have become a major threat to internet users worldwide. Phishing attacks may occur in different areas
 such as online payment, webmail, financial institutions, file hosting or cloud storage, etc. The main aim of this project is
